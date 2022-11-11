@@ -1,2 +1,0 @@
-# MMA-Project
-MMA Project
